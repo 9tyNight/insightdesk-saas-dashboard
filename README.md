@@ -2,6 +2,8 @@
 
 A portfolio demo for a full-stack-style subscription operations dashboard.
 
+Live demo: https://9tynight.github.io/insightdesk-saas-dashboard/
+
 ## What it demonstrates
 
 - React dashboard UI with KPIs, chart, searchable table, and account detail state
